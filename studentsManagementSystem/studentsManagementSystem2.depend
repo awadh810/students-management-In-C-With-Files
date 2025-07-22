@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1683496695 source:d:\data structure\studentsmanagementsystem2\main.cpp
+	<iostream>
+	<ostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<cstdio>
+	<windows.h>
+	<iomanip>
+

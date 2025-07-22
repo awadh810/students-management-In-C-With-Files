@@ -1,0 +1,2 @@
+2032024 ahmed Male tream CS 2 database 143 c++ 150 c# 145 java 150 web 143 assemply 150
+2032025 yasser Male tream CS 3 database 120 c# 124 linear-aljabra 129 datastructure 150 flutter 140 securty 150

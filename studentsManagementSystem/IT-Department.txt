@@ -1,0 +1,2 @@
+2012021 salem Male tream IT 1 arabic 150 Islamic 148 English 147 physical 141 mathmatics 148 Introduction 147
+2012022 ali Male aden IT 2 java 142 c# 145 web 150 dataStructure 150 math 135 opreatingSystem 149
